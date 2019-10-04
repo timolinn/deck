@@ -1,4 +1,4 @@
-package deckofcards
+package deck
 
 import (
 	"fmt"

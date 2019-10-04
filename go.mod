@@ -1,4 +1,4 @@
-module deckofcards
+module deck
 
 go 1.12
 

@@ -1,5 +1,5 @@
 //go:generate stringer -type=Suit,Rank
-package deckofcards
+package deck
 
 import (
 	"fmt"
